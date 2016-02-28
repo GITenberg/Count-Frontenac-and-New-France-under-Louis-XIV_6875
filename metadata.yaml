@@ -1,0 +1,26 @@
+_repo: Count-Frontenac-and-New-France-under-Louis-XIV_6875
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'F1001'
+- !lcsh 'Frontenac, Louis de Buade, comte de, 1620-1698'
+title: Count Frontenac and New France under Louis XIV
+url: http://www.gutenberg.org/ebooks/6875
